@@ -11,8 +11,8 @@ To make a custom Cyber Patriot Scoreboard that is useful to everyone
 # Objectives
 - A Watch system -- Sort out teams by team numbers to keep track of those teams
 - A ranking system -- Show what their current ranking is.
-- A projecton system -- project placings from state and semi-final rounds
-- A sorting system -- Sort by catagory, location, divison, tier and score
+- A projection system -- project placings from state and semi-final rounds
+- A sorting system -- Sort by category, location, division, tier and score
 - Notifications -- When events happen such as 6 hour mark or 5 minutes remaining, popup notification.
 - Just better scoreboard than CyberPatriot has
 
